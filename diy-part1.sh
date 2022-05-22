@@ -79,7 +79,7 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 
 #udpxy
-svn co https://github.com/kiddin9/openwrt-packages/trunk/master/luci-app-udpxy package/luci-app-udpxy
+svn co https://github.com/kiddin9/openwrt-packages/tree/master/luci-app-udpxy package/luci-app-udpxy
 
 ##############################################################################################
 
