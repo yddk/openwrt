@@ -76,7 +76,7 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 #git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
 #luci-app-adguardhome
-git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-adguardhome package/luci-app-adguardhome
 
 #udpxy
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-udpxy package/luci-app-udpxy
